@@ -36,12 +36,14 @@ dependencies:
   cupertino_icons: ^1.0.2
   get:
   uuid:
-  firebase_storage:
+  firebase_storage: 10.0.3
   firebase_core: 1.6.0
   firebase_auth: 3.1.1
   google_sign_in:
-  cloud_firestore:
-  image_picker:
+  cloud_firestore: 2.5.3
+  image_picker: ^0.8.4+2
+  random_string: ^2.0.1
+  firebase_auth_web: ^3.1.0
 
 dev_dependencies:
   flutter_test:
